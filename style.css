@@ -124,7 +124,7 @@ font-weight: bold;
     box-shadow: 1px 2px 15px 0px green;
     border-radius:8px;
     padding: 20px;
-    margin-left: 53px;
+    margin-left: 76px;
 }
 .like-box{
     margin-left: 140px;
@@ -146,11 +146,12 @@ font-weight: bold;
 }
 .food-box h1{
  color: #5b5b5b;
- font-size: 20px;
+ font-size: 30px;
+ margin-top: -8px;
 }
 .food-box span{
     color: #fc8746;
-    font-size: 20px;
+    font-size: 30px;
 }
 .food-box h2{
     color: #fff;
