@@ -47,7 +47,7 @@ a{
  font-size: 30px;
 }
 .parameter{
-    background: url(../images/shapes/7.png)top center ;
+    background: url(images/shapes/7.png)top center ;
     background-attachment: scroll;
     background-size: cover;
     padding: 0px !important;
@@ -119,15 +119,15 @@ font-weight: bold;
 }
 .follower{
     display: flex;
-    width:92%;
     box-sizing: border-box;
     box-shadow: 1px 2px 15px 0px green;
     border-radius:8px;
     padding: 20px;
-    margin-left: 76px;
+    margin-left: 78px;
 }
 .like-box{
-    margin-left: 140px;
+    text-align: center;
+    width: 30%;
 }
 .like-box h1{
     font-weight: bold;
